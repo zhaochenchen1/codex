@@ -1,7 +1,7 @@
 # 项目指令 (GEMINI.md)
 
 ## Git 操作与流程规范
-本项目的 Git 操作必须严格遵守 [GIT_CONVENTIONS.md](./GIT_CONVENTIONS.md) 中的规定：
+本项目的 Git 操作必须严格遵守 [Git操作规范.md](./Git操作规范.md) 中的规定：
 
 1. **开始任务前**：必须检查 `git status` 确保无未提交内容，并执行 `git pull`。
 2. **任务完成后**：必须询问用户是否同步远程仓库，得到允许后再执行推送。
