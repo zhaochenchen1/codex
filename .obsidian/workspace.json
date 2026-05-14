@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "市场感知.md",
+                "file": "docs/AIRead.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "市场感知"
+              "title": "AIRead"
             }
           },
           {
@@ -199,8 +199,8 @@
   },
   "active": "af0ca909009ea61b",
   "lastOpenFiles": [
-    "docs/设计文档/1、资金与情绪模块设计规范.md",
     "市场感知.md",
+    "docs/设计文档/1、资金与情绪模块设计规范.md",
     "结构说明.md",
     "tmp/每日记录.md",
     "tmp/md/2026-05-04.md",
