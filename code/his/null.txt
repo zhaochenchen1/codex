@@ -1,0 +1,2 @@
+ddpushurl=https://oapi.dingtalk.com/robot/send?access_token=714d2545935896b4b35abd5c3ee91f950fd857915108a6b93b856d98ff7825a4
+ddsecret=SECd572a4041205cc681004c106723a5ecd713469ca9c47a0d058d875e51435781e

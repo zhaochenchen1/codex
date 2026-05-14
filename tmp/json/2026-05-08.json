@@ -1,0 +1,472 @@
+{
+  "date": "2026-05-08",
+  "last_update": "2026-05-13 13:26:20",
+  "modules": {
+    "funds_sentiment": {
+      "metadata": {
+        "source": "skillhub",
+        "fetch_time": "2026-05-13 13:25:39",
+        "status": "final"
+      },
+      "data": {
+        "sh": {
+          "open_pct": "0.00%",
+          "close_pct": "0.00%",
+          "high_pct": "0.00%",
+          "low_pct": "0.00%",
+          "close_pt": 0.0,
+          "up_count": 0,
+          "down_count": 0,
+          "up_ratio": "0.00%",
+          "down_ratio": "0.00%",
+          "volume": 0.0,
+          "vol_chg": 0.0,
+          "vol_growth": "0.00%"
+        },
+        "sz": {
+          "open_pct": "0.00%",
+          "close_pct": "0.00%",
+          "high_pct": "0.00%",
+          "low_pct": "0.00%",
+          "close_pt": 0.0,
+          "up_count": 0,
+          "down_count": 0,
+          "up_ratio": "0.00%",
+          "down_ratio": "0.00%",
+          "volume": 0.0,
+          "vol_chg": 0.0,
+          "vol_growth": "0.00%"
+        },
+        "cyb": {
+          "open_pct": "0.00%",
+          "close_pct": "0.00%",
+          "high_pct": "0.00%",
+          "low_pct": "0.00%",
+          "close_pt": 3796.13,
+          "up_count": 17,
+          "down_count": 32,
+          "up_ratio": "34.69%",
+          "down_ratio": "65.31%",
+          "volume": 2779.62,
+          "vol_chg": 2779.62,
+          "vol_growth": "0.00%"
+        },
+        "kcb": {
+          "open_pct": "0.00%",
+          "close_pct": "0.00%",
+          "high_pct": "0.00%",
+          "low_pct": "0.00%",
+          "close_pt": 0.0,
+          "up_count": 0,
+          "down_count": 0,
+          "up_ratio": "0.00%",
+          "down_ratio": "0.00%",
+          "volume": 0.0,
+          "vol_chg": 0.0,
+          "vol_growth": "0.00%"
+        }
+      }
+    },
+    "sectors": {
+      "metadata": {
+        "source": "skillhub",
+        "fetch_time": "2026-05-13 13:25:48",
+        "status": "final"
+      },
+      "data": {
+        "gainers": [
+          {
+            "name": "航天装备",
+            "val": "+0.6467999999999999%"
+          },
+          {
+            "name": "印染",
+            "val": "-3.2952000000000004%"
+          },
+          {
+            "name": "印刷",
+            "val": "+1.0762%"
+          },
+          {
+            "name": "光学元件",
+            "val": "+1.3892%"
+          },
+          {
+            "name": "机器人",
+            "val": "-0.134%"
+          },
+          {
+            "name": "通信线缆及配套",
+            "val": "+0.5045%"
+          },
+          {
+            "name": "其他医疗服务",
+            "val": "+1.4423%"
+          },
+          {
+            "name": "车身附件及饰件",
+            "val": "+0.0983%"
+          },
+          {
+            "name": "鞋帽及其他",
+            "val": "+0.828%"
+          },
+          {
+            "name": "军工装备",
+            "val": "+1.0527%"
+          }
+        ],
+        "losers": [
+          {
+            "name": "粘胶",
+            "val": "-2.6259%"
+          },
+          {
+            "name": "钨",
+            "val": "+5.3262%"
+          },
+          {
+            "name": "黑色金属矿采选业指数",
+            "val": "-3.1386%"
+          },
+          {
+            "name": "研究和试验发展指数",
+            "val": "-2.8205%"
+          },
+          {
+            "name": "锂",
+            "val": "-3.247%"
+          },
+          {
+            "name": "集成电路制造",
+            "val": "+1.2692%"
+          },
+          {
+            "name": "电池化学品",
+            "val": "+0.4402%"
+          },
+          {
+            "name": "棉纺",
+            "val": "-0.1001%"
+          },
+          {
+            "name": "氨纶",
+            "val": "+1.6465%"
+          },
+          {
+            "name": "钾肥",
+            "val": "+1.091%"
+          }
+        ],
+        "inflow": [
+          {
+            "name": "融资融券",
+            "val": 8157.71
+          },
+          {
+            "name": "深股通",
+            "val": 4948.18
+          },
+          {
+            "name": "芯片概念",
+            "val": 3653.63
+          },
+          {
+            "name": "沪股通",
+            "val": 3186.57
+          },
+          {
+            "name": "华为概念",
+            "val": 2813.06
+          },
+          {
+            "name": "数据中心",
+            "val": 2751.2
+          },
+          {
+            "name": "机器人概念",
+            "val": 2634.58
+          },
+          {
+            "name": "新能源汽车",
+            "val": 2540.93
+          },
+          {
+            "name": "国企改革",
+            "val": 2396.77
+          },
+          {
+            "name": "人工智能",
+            "val": 2129.94
+          }
+        ],
+        "outflow": [
+          {
+            "name": "融资融券",
+            "val": 8863.44
+          },
+          {
+            "name": "深股通",
+            "val": 5409.06
+          },
+          {
+            "name": "芯片概念",
+            "val": 3923.53
+          },
+          {
+            "name": "沪股通",
+            "val": 3429.53
+          },
+          {
+            "name": "华为概念",
+            "val": 3003.59
+          },
+          {
+            "name": "数据中心",
+            "val": 2893.19
+          },
+          {
+            "name": "新能源汽车",
+            "val": 2727.04
+          },
+          {
+            "name": "机器人概念",
+            "val": 2682.32
+          },
+          {
+            "name": "国企改革",
+            "val": 2531.72
+          },
+          {
+            "name": "储能",
+            "val": 2411.91
+          }
+        ],
+        "counter_trend": [
+          {
+            "theme": "其他",
+            "list": [
+              "粘胶",
+              "钨",
+              "黑色金属矿采选业指数",
+              "研究和试验发展指数",
+              "锂",
+              "电池化学品",
+              "棉纺",
+              "氨纶",
+              "钾肥"
+            ]
+          },
+          {
+            "theme": "半导体产业链",
+            "list": [
+              "集成电路制造"
+            ]
+          }
+        ]
+      }
+    },
+    "index_preference": {
+      "metadata": {
+        "source": "skillhub",
+        "status": "final"
+      },
+      "data": {
+        "dimensions": [
+          {
+            "name": "sh",
+            "name_cn": "上证指数",
+            "pct": 0.0,
+            "vol_growth": 0.0,
+            "position": 0.0
+          },
+          {
+            "name": "sz",
+            "name_cn": "深证成指",
+            "pct": 0.0,
+            "vol_growth": 0.0,
+            "position": 0.0
+          },
+          {
+            "name": "cyb",
+            "name_cn": "创业板指",
+            "pct": 0.0,
+            "vol_growth": 0.0,
+            "position": 98.85
+          },
+          {
+            "name": "kcb",
+            "name_cn": "科创50",
+            "pct": 0.0,
+            "vol_growth": 0.0,
+            "position": 0.0
+          }
+        ],
+        "ranking": [
+          {
+            "name": "上证指数",
+            "score": 1.2
+          },
+          {
+            "name": "深证成指",
+            "score": 1.2
+          },
+          {
+            "name": "科创50",
+            "score": 1.2
+          },
+          {
+            "name": "创业板指",
+            "score": 1.0
+          }
+        ]
+      }
+    },
+    "price_preference": {
+      "metadata": {
+        "source": "skillhub",
+        "status": "final"
+      },
+      "data": {
+        "b1": {
+          "up": 964,
+          "down": 376,
+          "up_r": "71.94%"
+        },
+        "b2": {
+          "up": 2374,
+          "down": 1136,
+          "up_r": "67.64%"
+        },
+        "b3": {
+          "up": 112,
+          "down": 126,
+          "up_r": "47.06%"
+        },
+        "b4": {
+          "up": 9,
+          "down": 16,
+          "up_r": "36.0%"
+        },
+        "b5": {
+          "up": 5,
+          "down": 10,
+          "up_r": "33.33%"
+        },
+        "st": {
+          "up": 349,
+          "down": 130,
+          "up_r": "72.86%"
+        }
+      }
+    },
+    "mcap_preference": {
+      "metadata": {
+        "source": "skillhub",
+        "status": "final"
+      },
+      "data": {
+        "b1": {
+          "up": 10,
+          "down": 0,
+          "up_r": "100.0%"
+        },
+        "b2": {
+          "up": 1525,
+          "down": 337,
+          "up_r": "81.9%"
+        },
+        "b3": {
+          "up": 1017,
+          "down": 426,
+          "up_r": "70.48%"
+        },
+        "b4": {
+          "up": 769,
+          "down": 548,
+          "up_r": "58.39%"
+        },
+        "b5": {
+          "up": 244,
+          "down": 291,
+          "up_r": "45.61%"
+        },
+        "b6": {
+          "up": 72,
+          "down": 126,
+          "up_r": "36.36%"
+        }
+      }
+    }
+  },
+  "2026-05-08": {
+    "modules": {
+      "funds_sentiment": {
+        "metadata": {
+          "source": "hybrid_ak",
+          "status": "final",
+          "integrity": "complete",
+          "fetch_time": "2026-05-13 18:02:30"
+        },
+        "data": {
+          "sh": {
+            "open_pct": "-0.39%",
+            "close_pct": "-0.00%",
+            "high_pct": "+0.07%",
+            "low_pct": "-0.62%",
+            "close_pt": 4179.95,
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "volume": 697.02,
+            "vol_chg": 11.44,
+            "vol_growth": "+1.67%"
+          },
+          "sz": {
+            "open_pct": "-0.78%",
+            "close_pct": "-0.50%",
+            "high_pct": "-0.02%",
+            "low_pct": "-1.12%",
+            "close_pt": 15563.8,
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "volume": 826.22,
+            "vol_chg": -18.27,
+            "vol_growth": "-2.16%"
+          },
+          "cyb": {
+            "open_pct": "-1.07%",
+            "close_pct": "-0.96%",
+            "high_pct": "+0.19%",
+            "low_pct": "-1.20%",
+            "close_pt": 3796.13,
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "volume": 242.87,
+            "vol_chg": -9.44,
+            "vol_growth": "-3.74%"
+          },
+          "kcb": {
+            "open_pct": "-1.52%",
+            "close_pct": "-2.29%",
+            "high_pct": "-1.39%",
+            "low_pct": "-3.17%",
+            "close_pt": 1640.46,
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "volume": 15.01,
+            "vol_chg": 1.08,
+            "vol_growth": "+7.72%"
+          }
+        }
+      }
+    }
+  }
+}

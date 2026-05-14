@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-07",
+  "modules": {
+    "mcap_preference": {
+      "metadata": {
+        "status": "final"
+      },
+      "data": {
+        "b1": {
+          "range": "(0, 10]",
+          "up": 10,
+          "down": 0,
+          "up_r": "100.0%"
+        },
+        "b2": {
+          "range": "(10, 50]",
+          "up": 1187,
+          "down": 688,
+          "up_r": "63.31%"
+        },
+        "b3": {
+          "range": "(50, 100]",
+          "up": 972,
+          "down": 453,
+          "up_r": "68.21%"
+        },
+        "b4": {
+          "range": "(100, 300]",
+          "up": 899,
+          "down": 412,
+          "up_r": "68.57%"
+        },
+        "b5": {
+          "range": "(300, 1000]",
+          "up": 334,
+          "down": 200,
+          "up_r": "62.55%"
+        },
+        "b6": {
+          "range": "1000+",
+          "up": 114,
+          "down": 72,
+          "up_r": "61.29%"
+        }
+      }
+    },
+    "price_preference": {
+      "metadata": {
+        "status": "final"
+      },
+      "data": {
+        "b1": {
+          "up": 641,
+          "down": 713,
+          "up_r": "47.34%"
+        },
+        "b2": {
+          "up": 2532,
+          "down": 947,
+          "up_r": "72.78%"
+        },
+        "b3": {
+          "up": 200,
+          "down": 39,
+          "up_r": "83.68%"
+        },
+        "b4": {
+          "up": 21,
+          "down": 5,
+          "up_r": "80.77%"
+        },
+        "b5": {
+          "up": 13,
+          "down": 1,
+          "up_r": "92.86%"
+        },
+        "st": {
+          "up": 115,
+          "down": 130,
+          "up_r": "46.94%"
+        }
+      }
+    },
+    "sectors": {
+      "metadata": {
+        "source": "hybrid",
+        "status": "final"
+      },
+      "data": {
+        "gainers": [],
+        "losers": [],
+        "inflow": [],
+        "outflow": [],
+        "counter_trend": []
+      }
+    },
+    "funds_sentiment": {
+      "metadata": {
+        "source": "direct",
+        "status": "final"
+      },
+      "data": {
+        "sh": {
+          "open_pct": "0.00%",
+          "close_pct": "0.00%",
+          "high_pct": "0.00%",
+          "low_pct": "0.00%",
+          "close_pt": 0.0,
+          "up_count": 0,
+          "down_count": 0,
+          "up_ratio": "0.00%",
+          "down_ratio": "0.00%",
+          "volume": 0.0,
+          "vol_chg": 0.0,
+          "vol_growth": "0.00%"
+        },
+        "cyb": {
+          "open_pct": "0.00%",
+          "close_pct": "0.00%",
+          "high_pct": "0.00%",
+          "low_pct": "0.00%",
+          "close_pt": 0.0,
+          "up_count": 0,
+          "down_count": 0,
+          "up_ratio": "0.00%",
+          "down_ratio": "0.00%",
+          "volume": 0.0,
+          "vol_chg": 0.0,
+          "vol_growth": "0.00%"
+        },
+        "kcb": {
+          "open_pct": "0.00%",
+          "close_pct": "0.00%",
+          "high_pct": "0.00%",
+          "low_pct": "0.00%",
+          "close_pt": 0.0,
+          "up_count": 0,
+          "down_count": 0,
+          "up_ratio": "0.00%",
+          "down_ratio": "0.00%",
+          "volume": 0.0,
+          "vol_chg": 0.0,
+          "vol_growth": "0.00%"
+        }
+      }
+    }
+  },
+  "2026-05-07": {
+    "modules": {
+      "funds_sentiment": {
+        "metadata": {
+          "source": "hybrid_ak",
+          "status": "final",
+          "integrity": "complete",
+          "fetch_time": "2026-05-13 18:02:32"
+        },
+        "data": {
+          "sh": {
+            "open_pct": "+0.20%",
+            "close_pct": "+0.48%",
+            "high_pct": "+0.48%",
+            "low_pct": "+0.07%",
+            "close_pt": 4180.09,
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "volume": 685.57,
+            "vol_chg": -15.6,
+            "vol_growth": "-2.23%"
+          },
+          "sz": {
+            "open_pct": "+0.53%",
+            "close_pct": "+1.18%",
+            "high_pct": "+1.25%",
+            "low_pct": "-0.13%",
+            "close_pt": 15641.89,
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "volume": 844.49,
+            "vol_chg": 18.24,
+            "vol_growth": "+2.21%"
+          },
+          "cyb": {
+            "open_pct": "+0.79%",
+            "close_pct": "+1.45%",
+            "high_pct": "+1.64%",
+            "low_pct": "-0.45%",
+            "close_pt": 3833.06,
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "volume": 252.31,
+            "vol_chg": 2.43,
+            "vol_growth": "+0.97%"
+          },
+          "kcb": {
+            "open_pct": "+0.37%",
+            "close_pct": "+1.32%",
+            "high_pct": "+1.53%",
+            "low_pct": "-0.60%",
+            "close_pt": 1678.89,
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "volume": 13.93,
+            "vol_chg": -4.37,
+            "vol_growth": "-23.88%"
+          }
+        }
+      }
+    }
+  }
+}

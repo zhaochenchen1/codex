@@ -1,0 +1,8 @@
+Processing Section 1: Funds & Sentiment...
+Error fetching data for '000001.SH今日收盘价，昨日收盘价，今日成交额，昨日成交额，今日上涨家数，今日下跌家数，今日最高价，今日最低价，今日开盘价': 'dict' object has no attribute 'to_dict'
+Error fetching data for '000688.SH今日收盘价，昨日收盘价，今日成交额，昨日成交额，今日上涨家数，今日下跌家数，今日最高价，今日最低价，今日开盘价': 'dict' object has no attribute 'to_dict'
+Processing Section 2: Sectors...
+
+# 市场感知报告 (2026-05-13)
+
+## 一、 资金 & 情绪

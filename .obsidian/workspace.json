@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "4e200ca5fc51e75e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a462b2fd3485231e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af0ca909009ea61b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "市场感知.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "市场感知"
+            }
+          },
+          {
+            "id": "dd97c9ddd076f183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/AIRead.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AIRead"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "864dfeec48c9e215",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e458c7b17ad4ae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da99ab8324efb8e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5f434ca40fdfbc03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9f76de0b0c5f9236",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f342899b05b1a951",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c29c5b81eadd585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ba7559b6f629990",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/设计文档/1、资金与情绪模块设计规范.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1、资金与情绪模块设计规范 的反向链接列表"
+            }
+          },
+          {
+            "id": "5cbfbcc93564d11c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "config/mysql.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "mysql 的出链列表"
+            }
+          },
+          {
+            "id": "e012bdbb16cf8bf6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1a697e1d8b29b760",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c47768a9f8277760",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "config/mysql.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "mysql 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "af0ca909009ea61b",
+  "lastOpenFiles": [
+    "docs/设计文档/1、资金与情绪模块设计规范.md",
+    "市场感知.md",
+    "结构说明.md",
+    "tmp/每日记录.md",
+    "tmp/md/2026-05-04.md",
+    "tmp/md",
+    "tmp/md/2026-05-11-指数偏好.md",
+    "docs/AIRead.md",
+    "docs/我.md",
+    "docs/AI过程记录/尝试失败的记录.md",
+    "docs/AI过程记录/skill.md",
+    "docs/AI过程记录/gemini对话记录.md",
+    "docs/设计文档/0、市场感知总控设计规范.md",
+    "docs/AI过程记录",
+    "docs/设计文档",
+    "config/mysql.md",
+    "盈亏同源.md",
+    "Pasted image 20260511175010.png",
+    "问题.md",
+    "势.md",
+    "模式.md",
+    "量价关系.md",
+    "交易纪律.md",
+    "docs/AI过程记录/使用说明.md",
+    "docs/AI过程记录/可用API.md",
+    "docs/AI过程记录/sql.md",
+    "docs/我的想法.md",
+    "docs/设计文档/5、市值偏好模块设计规范.md",
+    "docs/设计文档/4、股价偏好模块设计规范.md",
+    "docs/设计文档/3、指数偏好评分模块设计规范.md",
+    "code/test/跌幅榜专项测试.py",
+    "code/test/板块获取优化测试.py",
+    "code/test",
+    "tmp/json/2026-05-13.json",
+    "tmp/json/2026-05-04.json",
+    "tmp/json/2026-05-05.json",
+    "tmp/json/2026-05-06.json"
+  ]
+}

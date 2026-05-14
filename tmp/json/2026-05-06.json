@@ -1,0 +1,72 @@
+{
+  "2026-05-06": {
+    "modules": {
+      "funds_sentiment": {
+        "metadata": {
+          "source": "hybrid_ak",
+          "status": "final",
+          "integrity": "complete",
+          "fetch_time": "2026-05-13 18:02:35"
+        },
+        "data": {
+          "sh": {
+            "open_pct": "+0.57%",
+            "close_pct": "+1.17%",
+            "high_pct": "+1.31%",
+            "low_pct": "+0.43%",
+            "close_pt": 4160.17,
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "volume": 701.18,
+            "vol_chg": 44.26,
+            "vol_growth": "+6.74%"
+          },
+          "sz": {
+            "open_pct": "+1.43%",
+            "close_pct": "+2.33%",
+            "high_pct": "+2.83%",
+            "low_pct": "+0.98%",
+            "close_pt": 15459.62,
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "volume": 826.25,
+            "vol_chg": 88.54,
+            "vol_growth": "+12.00%"
+          },
+          "cyb": {
+            "open_pct": "+2.27%",
+            "close_pct": "+2.75%",
+            "high_pct": "+3.75%",
+            "low_pct": "+1.29%",
+            "close_pt": 3778.16,
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "volume": 249.88,
+            "vol_chg": 48.07,
+            "vol_growth": "+23.82%"
+          },
+          "kcb": {
+            "open_pct": "+4.03%",
+            "close_pct": "+5.47%",
+            "high_pct": "+9.17%",
+            "low_pct": "+3.86%",
+            "close_pt": 1656.95,
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "volume": 18.3,
+            "vol_chg": 3.19,
+            "vol_growth": "+21.12%"
+          }
+        }
+      }
+    }
+  }
+}

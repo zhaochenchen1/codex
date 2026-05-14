@@ -1,0 +1,523 @@
+{
+  "2026-05-13": {
+    "modules": {
+      "funds_sentiment": {
+        "metadata": {
+          "source": "manual_verified_trillion",
+          "status": "realtime",
+          "integrity": "complete",
+          "fetch_time": "2026-05-14 11:20:06"
+        },
+        "data": {
+          "cyb": {
+            "close_pt": 4038.33,
+            "volume": 3450.58,
+            "close_pct": "+2.63%",
+            "vol_growth": "+0.42%",
+            "open_pct": "-0.87%",
+            "high_pct": "+2.72%",
+            "low_pct": "-1.04%",
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "vol_chg": 14.5
+          },
+          "sh": {
+            "close_pt": 4242.57,
+            "volume": 14474.64,
+            "close_pct": "+0.67%",
+            "vol_growth": "-1.94%",
+            "open_pct": "-0.53%",
+            "high_pct": "+0.73%",
+            "low_pct": "-0.53%",
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "vol_chg": -286.2
+          },
+          "sz": {
+            "close_pt": 16089.75,
+            "volume": 9295.78,
+            "close_pct": "+1.67%",
+            "vol_growth": "-2.42%",
+            "open_pct": "-0.70%",
+            "high_pct": "+1.74%",
+            "low_pct": "-0.70%",
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "vol_chg": -230.5
+          },
+          "kcb": {
+            "close_pt": 1770.15,
+            "volume": 1586.89,
+            "close_pct": "+2.69%",
+            "vol_growth": "+5.00%",
+            "open_pct": "-2.29%",
+            "high_pct": "+2.77%",
+            "low_pct": "-2.68%",
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "vol_chg": 75.6
+          }
+        }
+      },
+      "sectors": {
+        "metadata": {
+          "source": "skillhub_date_bound",
+          "status": "final",
+          "integrity": "complete",
+          "fetch_time": "2026-05-14 10:11:42"
+        },
+        "data": {
+          "gainers": [
+            {
+              "name": "中船系",
+              "val": "+4.34%"
+            },
+            {
+              "name": "培育钻石",
+              "val": "+4.2%"
+            },
+            {
+              "name": "存储芯片",
+              "val": "+3.68%"
+            },
+            {
+              "name": "EDR概念",
+              "val": "+3.53%"
+            },
+            {
+              "name": "中芯国际概念",
+              "val": "+3.48%"
+            },
+            {
+              "name": "国家大基金持股",
+              "val": "+3.45%"
+            },
+            {
+              "name": "算力租赁",
+              "val": "+3.38%"
+            },
+            {
+              "name": "先进封装",
+              "val": "+3.33%"
+            },
+            {
+              "name": "华为数字能源",
+              "val": "+3.28%"
+            },
+            {
+              "name": "同花顺果指数",
+              "val": "+3.2%"
+            },
+            {
+              "name": "英伟达概念",
+              "val": "+3.18%"
+            },
+            {
+              "name": "特高压",
+              "val": "+3.0%"
+            },
+            {
+              "name": "柔性直流输电",
+              "val": "+2.94%"
+            },
+            {
+              "name": "第三代半导体",
+              "val": "+2.94%"
+            },
+            {
+              "name": "中国AI 50",
+              "val": "+2.82%"
+            },
+            {
+              "name": "AI PC",
+              "val": "+2.8%"
+            },
+            {
+              "name": "光刻胶",
+              "val": "+2.74%"
+            },
+            {
+              "name": "东数西算(算力)",
+              "val": "+2.68%"
+            },
+            {
+              "name": "电力物联网",
+              "val": "+2.61%"
+            },
+            {
+              "name": "数据中心",
+              "val": "+2.53%"
+            }
+          ],
+          "losers": [
+            {
+              "name": "锂",
+              "val": 0.0
+            },
+            {
+              "name": "印染",
+              "val": 0.0
+            },
+            {
+              "name": "保险业指数",
+              "val": 0.0
+            },
+            {
+              "name": "保险",
+              "val": 0.0
+            },
+            {
+              "name": "粘胶",
+              "val": 0.0
+            },
+            {
+              "name": "体育",
+              "val": 0.0
+            },
+            {
+              "name": "镍",
+              "val": 0.0
+            },
+            {
+              "name": "肉制品",
+              "val": 0.0
+            },
+            {
+              "name": "家纺",
+              "val": 0.0
+            },
+            {
+              "name": "能源金属",
+              "val": 0.0
+            },
+            {
+              "name": "油气开采",
+              "val": 0.0
+            },
+            {
+              "name": "房地产服务",
+              "val": 0.0
+            },
+            {
+              "name": "家具制造业指数",
+              "val": 0.0
+            },
+            {
+              "name": "木材加工木竹藤棕草制品业指数",
+              "val": 0.0
+            },
+            {
+              "name": "黑色金属矿采选业指数",
+              "val": 0.0
+            },
+            {
+              "name": "住宅开发",
+              "val": 0.0
+            },
+            {
+              "name": "畜牧业指数",
+              "val": 0.0
+            },
+            {
+              "name": "医疗研发外包",
+              "val": 0.0
+            },
+            {
+              "name": "白酒",
+              "val": 0.0
+            },
+            {
+              "name": "租赁业指数",
+              "val": 0.0
+            }
+          ],
+          "inflow": [
+            {
+              "name": "半导体",
+              "val": 1742.73
+            },
+            {
+              "name": "通信设备",
+              "val": 1079.46
+            },
+            {
+              "name": "数字芯片设计",
+              "val": 844.04
+            },
+            {
+              "name": "通信网络设备及器件",
+              "val": 796.45
+            },
+            {
+              "name": "元件",
+              "val": 609.14
+            },
+            {
+              "name": "消费电子",
+              "val": 574.24
+            },
+            {
+              "name": "消费电子零部件及组装",
+              "val": 549.0
+            },
+            {
+              "name": "印制电路板",
+              "val": 534.05
+            },
+            {
+              "name": "电池",
+              "val": 513.15
+            },
+            {
+              "name": "电网设备",
+              "val": 477.97
+            }
+          ],
+          "outflow": [
+            {
+              "name": "半导体",
+              "val": 1568.27
+            },
+            {
+              "name": "通信设备",
+              "val": 1012.65
+            },
+            {
+              "name": "数字芯片设计",
+              "val": 746.43
+            },
+            {
+              "name": "通信网络设备及器件",
+              "val": 721.29
+            },
+            {
+              "name": "元件",
+              "val": 575.2
+            },
+            {
+              "name": "电池",
+              "val": 554.56
+            },
+            {
+              "name": "印制电路板",
+              "val": 506.86
+            },
+            {
+              "name": "消费电子",
+              "val": 474.51
+            },
+            {
+              "name": "电网设备",
+              "val": 453.28
+            },
+            {
+              "name": "消费电子零部件及组装",
+              "val": 453.01
+            }
+          ],
+          "counter_trend": [
+            {
+              "theme": "其他",
+              "list": [
+                "锂",
+                "印染",
+                "保险业指数",
+                "保险",
+                "粘胶",
+                "体育",
+                "镍",
+                "肉制品",
+                "家纺",
+                "能源金属",
+                "油气开采",
+                "房地产服务",
+                "家具制造业指数",
+                "木材加工木竹藤棕草制品业指数",
+                "黑色金属矿采选业指数",
+                "住宅开发",
+                "畜牧业指数",
+                "医疗研发外包",
+                "白酒",
+                "租赁业指数"
+              ]
+            }
+          ]
+        }
+      },
+      "price_preference": {
+        "metadata": {
+          "source": "skillhub",
+          "status": "final",
+          "integrity": "complete",
+          "fetch_time": "2026-05-14 08:57:58"
+        },
+        "data": {
+          "b1": {
+            "up": 813,
+            "down": 515,
+            "up_r": "61.22%",
+            "down_r": "38.78%"
+          },
+          "b2": {
+            "up": 2054,
+            "down": 1431,
+            "up_r": "58.94%",
+            "down_r": "41.06%"
+          },
+          "b3": {
+            "up": 180,
+            "down": 80,
+            "up_r": "69.23%",
+            "down_r": "30.77%"
+          },
+          "b4": {
+            "up": 22,
+            "down": 4,
+            "up_r": "84.62%",
+            "down_r": "15.38%"
+          },
+          "b5": {
+            "up": 15,
+            "down": 3,
+            "up_r": "83.33%",
+            "down_r": "16.67%"
+          },
+          "st": {
+            "up": 16,
+            "down": 7,
+            "up_r": "69.57%",
+            "down_r": "30.43%"
+          }
+        }
+      },
+      "mcap_preference": {
+        "metadata": {
+          "source": "skillhub",
+          "status": "final",
+          "integrity": "complete",
+          "fetch_time": "2026-05-14 08:58:09"
+        },
+        "data": {
+          "b1": {
+            "up": 5,
+            "down": 4,
+            "up_r": "55.56%",
+            "down_r": "44.44%"
+          },
+          "b2": {
+            "up": 1032,
+            "down": 806,
+            "up_r": "56.15%",
+            "down_r": "43.85%"
+          },
+          "b3": {
+            "up": 876,
+            "down": 547,
+            "up_r": "61.56%",
+            "down_r": "38.44%"
+          },
+          "b4": {
+            "up": 844,
+            "down": 476,
+            "up_r": "63.94%",
+            "down_r": "36.06%"
+          },
+          "b5": {
+            "up": 339,
+            "down": 209,
+            "up_r": "61.86%",
+            "down_r": "38.14%"
+          },
+          "b6": {
+            "up": 113,
+            "down": 86,
+            "up_r": "56.78%",
+            "down_r": "43.22%"
+          }
+        }
+      },
+      "index_preference": {
+        "metadata": {
+          "source": "skillhub",
+          "status": "final",
+          "fetch_time": "2026-05-14 09:10:16"
+        },
+        "data": {
+          "dimensions": [
+            {
+              "name": "沪市",
+              "pct": 0.67,
+              "vol_growth": -1.94,
+              "position": 99.94,
+              "pct_str": "+0.67%",
+              "vol_growth_str": "-1.94%",
+              "position_str": "99.94%"
+            },
+            {
+              "name": "深市",
+              "pct": 1.67,
+              "vol_growth": -2.42,
+              "position": 99.93,
+              "pct_str": "+1.67%",
+              "vol_growth_str": "-2.42%",
+              "position_str": "99.93%"
+            },
+            {
+              "name": "创业板",
+              "pct": 2.63,
+              "vol_growth": 0.42,
+              "position": 99.91,
+              "pct_str": "+2.63%",
+              "vol_growth_str": "+0.42%",
+              "position_str": "99.91%"
+            },
+            {
+              "name": "科创板",
+              "pct": 2.69,
+              "vol_growth": 5.0,
+              "position": 99.92,
+              "pct_str": "+2.69%",
+              "vol_growth_str": "+5.00%",
+              "position_str": "99.92%"
+            }
+          ],
+          "ranking": [
+            {
+              "rank": 1,
+              "name": "科创板",
+              "score": 3.8,
+              "status": "强偏好"
+            },
+            {
+              "rank": 2,
+              "name": "创业板",
+              "score": 3.2,
+              "status": "偏好"
+            },
+            {
+              "rank": 3,
+              "name": "深市",
+              "score": 1.6,
+              "status": "中性"
+            },
+            {
+              "rank": 4,
+              "name": "沪市",
+              "score": 1.4,
+              "status": "弱偏好"
+            }
+          ],
+          "summary": "当前偏好方向: 科创板"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "2026-05-05": {
+    "modules": {
+      "funds_sentiment": {
+        "metadata": {
+          "source": "direct",
+          "status": "realtime",
+          "integrity": "partial",
+          "fetch_time": "2026-05-13 15:43:24"
+        },
+        "data": {
+          "sh": {
+            "open_pct": "--",
+            "close_pct": "--",
+            "high_pct": "--",
+            "low_pct": "--",
+            "close_pt": 0.0,
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "volume": 0.0,
+            "vol_chg": 0,
+            "vol_growth": "--"
+          },
+          "kcb": {
+            "open_pct": "--",
+            "close_pct": "--",
+            "high_pct": "--",
+            "low_pct": "--",
+            "close_pt": 0.0,
+            "up_count": 0,
+            "down_count": 0,
+            "up_ratio": "--",
+            "down_ratio": "--",
+            "volume": 0.0,
+            "vol_chg": 0,
+            "vol_growth": "--"
+          }
+        }
+      }
+    }
+  }
+}
